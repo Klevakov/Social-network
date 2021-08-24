@@ -1,3 +1,1 @@
-from django.contrib import admin
-
-# Register your models here.
+"""Модуль для регистрауии моделей и добавления их в систему администрирования Django. """
